@@ -1,0 +1,12 @@
+#texto {
+    color: green;
+    background: greenyellow;
+}
+#paragrafo {
+    color: blue;
+    font-size: 30px;
+}
+#outro {
+    color: red;
+    background-color: black;
+}

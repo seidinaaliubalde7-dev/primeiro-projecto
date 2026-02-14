@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a:hover{
+    color: red;
+
+}
+
+.container{
+    width: 100px;
+    height: 100px;
+    background: red;
+}
+.container:empty{
+    background: blue;
+
+}

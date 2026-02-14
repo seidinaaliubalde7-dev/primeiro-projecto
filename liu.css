@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding o;
+    box-sizing: border-box;
+
+}
+
+input{
+    border: 1px solid green;
+    color: yellow;
+}
+
+input::placeholder{
+    color: yellow;
+}
+
+p::first-line{
+    color: red;
+}
